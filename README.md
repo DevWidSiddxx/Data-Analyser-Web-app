@@ -6,7 +6,7 @@
 ![Lodash](https://img.shields.io/badge/Lodash-4.17.21-orange)
 ![Lucide React](https://img.shields.io/badge/Lucide_React-0.263.1-lightgrey)
 
-A powerful React application for uploading, analyzing, and visualizing CSV data with beautiful charts and comprehensive statistics.
+An application for uploading, analyzing, and visualizing CSV data with beautiful charts and comprehensive statistics.
 
 ![App Screenshot](screenshot.png) *(Replace with actual screenshot)*
 
